@@ -1,6 +1,6 @@
 ## Hey 👋
 
-I'm a French web developer and I like strongly typed code, which is why :
+I'm a French web developer and I love strongly typed code, which is why :
 
 - I love using PHPStan at the highest possible level!
 - I'm learning Rust 🦀
