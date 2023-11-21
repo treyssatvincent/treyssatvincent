@@ -23,7 +23,7 @@ For the frontend, I have experience with Vue.js & Next.js (React), but my all-ti
 
 - [nino.treyssatvincent.fr](https://nino.treyssatvincent.fr)
 - [linkedin.com/in/treyssatvincent](https://www.linkedin.com/in/treyssatvincent/)
-- [stackoverflow.com/users/7172464/nino](https://stackoverflow.com/users/7172464/nino)
+- [stackoverflow.com/users/7172464/nino-treyssat-vincent](https://stackoverflow.com/users/7172464/nino-treyssat-vincent)
 
 #### Forges 🔨
 
